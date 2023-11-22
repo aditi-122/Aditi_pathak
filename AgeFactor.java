@@ -7,7 +7,7 @@ class AgeFactor
      int age = sc.nextInt();
      System.out.print("Property: ");
      double prop = sc.nextDouble();
-     if(age>=21 &&(prop >= 100000000 ||))
+     if(age>=21 &&(prop >= 100000000 ||name=Ambani))
      {
      	System.out.println("Preson is eligible to marry "+age+prop);
      }
