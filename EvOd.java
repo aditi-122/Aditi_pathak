@@ -1,6 +1,14 @@
-class EdOd
+class EvOd
 {
 	public static void main(String[] args) {
-		for(i=1;i>=100;i%2==0)
+		int i=1;
+		for(;i<=100;i++)
+		{
+			if (i%2!=0)
+			{
+				continue;
+			}
+	}
+	 System.out.println(i+" ");
 	}
 }
